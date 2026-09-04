@@ -4,8 +4,7 @@ I'm currently working on python , oops <br>learning DSA , libraries , machine le
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/
-nitin-kumar-singh-25a5b3366) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinkrsingh2004@gmail.com) 
 
 # 💻 Tech Stack:
